@@ -8,7 +8,7 @@ This library includes 2 function for calculating auto correlation.
 
 input-----> input data.
 
-size------> if your input data is big array of some specific data and you just want to calculate first 10 or 50 or whatelse of the you can set size.
+size------> if your input data is big array of some specific data and you just want to calculate first 10 or 50 or whatelse  you can set  this size.
             else size should be equal to your input array size.
             
 output----> auto correlation data.
