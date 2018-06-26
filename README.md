@@ -20,7 +20,9 @@ output----> auto correlation data.
 #This Function is usefull when you want to calculate auto correlation of analog data.
 
 AnalogPin---> arduino pin number for reading analog data.
+
 size--------> number of data you want to get from analog pin.
+
 output------> auto correlation data.
 
 
