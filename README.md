@@ -25,8 +25,8 @@ output------> auto correlation data.
 
 
 
-For test we use test data in matlab and then test arduino nano for output.
-input x=[0.81,0.90,0.12,0.91,0.63,0.097 ,0.27,0.54,0.95,0.96];
+Test data was used in matlab and then arduino nano.
+Test Data x=[0.81,0.90,0.12,0.91,0.63,0.097 ,0.27,0.54,0.95,0.96];
 
 matlab output: 
 
